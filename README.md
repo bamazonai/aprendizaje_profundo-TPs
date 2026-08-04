@@ -1,1 +1,1 @@
-# TP1 - Aprendizaje Profundo (CEIA-FIUBA)
+#TPs para la clase de Deep Learning de la CEIA - FIUBA
